@@ -94,7 +94,7 @@ nav::after {
 
 /* --- 3. Banner trang chủ (Hero) --- */
 .hero {
-    background: url('hinh/bìa.jpg') no-repeat center center;
+    background: url('bìa.jpg') no-repeat center center;
     background-size: cover;
     height: 400px;
     margin-bottom: 40px;
